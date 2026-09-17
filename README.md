@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shrey-Chandola/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Hash Table
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
