@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/Shrey-Chandola/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 <!---LeetCode Topics End-->
