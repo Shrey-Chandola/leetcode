@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrey-Chandola/leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrey-Chandola/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shrey-Chandola/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3582-generate-tag-for-video-caption](https://github.com/Shrey-Chandola/leetcode/tree/master/3582-generate-tag-for-video-caption) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrey-Chandola/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
