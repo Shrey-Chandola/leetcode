@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shrey-Chandola/leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shrey-Chandola/leetcode/tree/master/0125-valid-palindrome) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Shrey-Chandola/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [3582-generate-tag-for-video-caption](https://github.com/Shrey-Chandola/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Simulation
