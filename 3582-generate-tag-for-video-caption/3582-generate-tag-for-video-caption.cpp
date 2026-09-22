@@ -1,7 +1,7 @@
 class Solution {
 public:
     string generateTag(string caption) {
-        string newCaption = "#";
+        string newCaption= "#";
         bool firstLetter = true;
 
         for(int i = 0; i < caption.size(); i++)
