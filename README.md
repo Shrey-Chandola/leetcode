@@ -18,6 +18,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shrey-Chandola/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shrey-Chandola/leetcode/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Shrey-Chandola/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shrey-Chandola/leetcode/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Shrey-Chandola/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shrey-Chandola/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shrey-Chandola/leetcode/tree/master/0344-reverse-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Shrey-Chandola/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Shrey-Chandola/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3582-generate-tag-for-video-caption](https://github.com/Shrey-Chandola/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Simulation
 |  |
