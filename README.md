@@ -24,10 +24,12 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0009-palindrome-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Counting
 |  |
 | ------- |
