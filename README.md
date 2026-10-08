@@ -67,6 +67,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shrey-Chandola/leetcode/tree/master/0344-reverse-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Shrey-Chandola/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Shrey-Chandola/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3407-substring-matching-pattern](https://github.com/Shrey-Chandola/leetcode/tree/master/3407-substring-matching-pattern) |
 | [3582-generate-tag-for-video-caption](https://github.com/Shrey-Chandola/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -88,4 +89,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shrey-Chandola/leetcode/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/Shrey-Chandola/leetcode/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
