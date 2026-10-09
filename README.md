@@ -12,6 +12,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shrey-Chandola/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shrey-Chandola/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shrey-Chandola/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shrey-Chandola/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
