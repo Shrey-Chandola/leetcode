@@ -12,6 +12,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shrey-Chandola/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shrey-Chandola/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shrey-Chandola/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrey-Chandola/leetcode/tree/master/0169-majority-element) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Shrey-Chandola/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shrey-Chandola/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shrey-Chandola/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shrey-Chandola/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shrey-Chandola/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
@@ -95,4 +98,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3407-substring-matching-pattern](https://github.com/Shrey-Chandola/leetcode/tree/master/3407-substring-matching-pattern) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Shrey-Chandola/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
