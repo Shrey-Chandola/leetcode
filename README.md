@@ -6,6 +6,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shrey-Chandola/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shrey-Chandola/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Shrey-Chandola/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrey-Chandola/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shrey-Chandola/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Shrey-Chandola/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shrey-Chandola/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shrey-Chandola/leetcode/tree/master/0344-reverse-string) |
