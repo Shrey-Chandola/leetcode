@@ -30,6 +30,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Shrey-Chandola/leetcode/tree/master/0050-powx-n) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shrey-Chandola/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -114,4 +115,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shrey-Chandola/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
