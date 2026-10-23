@@ -14,6 +14,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shrey-Chandola/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shrey-Chandola/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0189-rotate-array) |
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Shrey-Chandola/leetcode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -33,6 +34,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Shrey-Chandola/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0189-rotate-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shrey-Chandola/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -70,6 +72,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Shrey-Chandola/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shrey-Chandola/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shrey-Chandola/leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
