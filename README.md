@@ -18,6 +18,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shrey-Chandola/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shrey-Chandola/leetcode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Shrey-Chandola/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Shrey-Chandola/leetcode/tree/master/0605-can-place-flowers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -169,4 +170,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shrey-Chandola/leetcode/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shrey-Chandola/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
