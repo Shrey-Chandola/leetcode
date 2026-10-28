@@ -44,6 +44,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shrey-Chandola/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Shrey-Chandola/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/Shrey-Chandola/leetcode/tree/master/0507-perfect-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shrey-Chandola/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Shrey-Chandola/leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shrey-Chandola/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
