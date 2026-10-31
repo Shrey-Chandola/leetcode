@@ -100,6 +100,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shrey-Chandola/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shrey-Chandola/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shrey-Chandola/leetcode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrey-Chandola/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Shrey-Chandola/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Shrey-Chandola/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3407-substring-matching-pattern](https://github.com/Shrey-Chandola/leetcode/tree/master/3407-substring-matching-pattern) |
@@ -108,6 +109,7 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shrey-Chandola/leetcode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrey-Chandola/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3582-generate-tag-for-video-caption](https://github.com/Shrey-Chandola/leetcode/tree/master/3582-generate-tag-for-video-caption) |
 ## Dynamic Programming
 |  |
@@ -176,4 +178,8 @@ A Collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shrey-Chandola/leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Shrey-Chandola/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
